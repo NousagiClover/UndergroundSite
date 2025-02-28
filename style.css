@@ -1,0 +1,40 @@
+html
+{
+  background: #1a1a1a;
+}
+
+.text
+{
+  color: white;
+  text-align: center;
+}
+
+.topbar
+{
+  width: 100%;
+  height: 60px;
+  background-color: #87cefa;
+}
+
+.topbar p
+{
+  text-align: center;
+  line-height: 60px;
+}
+
+.topbar-img
+{
+  text-align: center;
+  padding: 10px;
+}
+
+.topbar-img img
+{
+  width: 1024px;
+  height: 150px;
+}
+
+.item
+{
+  list-style-type: none;
+}
